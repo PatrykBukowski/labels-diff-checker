@@ -1,0 +1,26 @@
+{
+  "name": "@sf-toolkit/labels-diff-checker",
+  "version": "1.0.0",
+  "description": "The tool check the differences between labels in SF",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "npm run build && jest ./.dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PatrykBukowski/labels-diff-checker.git"
+  },
+  "keywords": [
+    "salesforce",
+    "custom",
+    "labels",
+    "differences",
+    "xml"
+  ],
+  "author": "Patryk Bukowski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PatrykBukowski/labels-diff-checker/issues"
+  },
+  "homepage": "https://github.com/PatrykBukowski/labels-diff-checker#readme"
+}
